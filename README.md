@@ -1,2 +1,2 @@
-# tutoria
-Tutoria número 1
+# Tutorias
+Repo de las tutorias para consultar codigos y demas 
