@@ -13,7 +13,7 @@ def calcularSalario():
     #calculo de deducciones
     Dpopular = salarioBruto*0.01
     Ds = salarioBruto*0.0550
-    Dc = salarioBruto * 0.0284
+    Dc = salarioBruto * 0.028
     deduccionTotal= Dpopular+Ds+Dc
 
     #calculo de salario liquido
